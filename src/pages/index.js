@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import "../components/index.css"
 
 
-const Index = () => {
+const index = () => {
   return (
     <header className= 'hero'>
       <div className= 'heroContainer'>
